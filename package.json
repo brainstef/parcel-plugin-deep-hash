@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-deep-hash",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Deep hash for files",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,11 @@
     "hash"
   ],
   "author": "brainstef",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "parcel": "1.12.4"
+  },
+  "devDependencies": {
+    "parcel": ">=1.12.4"
   }
 }
