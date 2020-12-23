@@ -1,0 +1,18 @@
+{
+  "name": "parcel-plugin-deep-hash",
+  "version": "0.0.1",
+  "description": "Deep hash for files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parcel",
+    "hash"
+  ],
+  "author": "brainstef",
+  "license": "ISC",
+  "peerDependencies": {
+    "parcel": "1.12.4"
+  }
+}
